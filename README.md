@@ -26,8 +26,8 @@ I enjoy working on a variety of coding projects, both personal and open-source. 
 
 I'm always open to collaborating on interesting projects and connecting with like-minded individuals. Feel free to reach out to me on:
 
-- 📧 Email: Tahoura.Morovati@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/tahoura-morovati-54276a161/
+- 📧 Email: Tara.Morovati@rmit.edu.au
+- 🌐 LinkedIn: https://www.linkedin.com/in/tara-morovati-54276a161/
 - 🌟 GitHub: https://github.com/tmorovati
   
 ## Interests
