@@ -9,7 +9,7 @@ I'm a passionate developer with a deep love for coding, problem-solving, and tec
 
 ## What I Do
 
-- 💻 I work as a Research Assistant at IPM,
+- 💻 I work as a Research Assistant at RMIT university,
 - <img src="./download.png" alt="University Logo" width="20" height="20"> Master Student at University of Tehran.
 - 🌐 I'm skilled in Signal Processing[Vision, Audio, Biomedical Signals, etc].
 - 🚀 I'm always eager to tackle new challenges and explore emerging technologies.
