@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi there, I'm Tahoura Morovati 👋
+Hi there, I'm Tara Morovati 👋
 
 I'm a passionate developer with a deep love for coding, problem-solving, and technology. My journey in the world of programming began 6 years ago, and I've been on an exciting learning adventure ever since. I'm constantly driven by the desire to explore and create.
 
